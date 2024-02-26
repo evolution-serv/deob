@@ -1,4 +1,3 @@
-
 class opwaIuUovQBxsX:
     def __init__(self):
         self.__kSIFlYqJ()
